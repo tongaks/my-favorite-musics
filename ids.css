@@ -1,0 +1,21 @@
+#beabadoobe {
+	background-color: pink;
+	background-image: linear-gradient(to right bottom, lightpink, hotpink);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: rgb(98, 36, 89);
+}
+
+#vacations {
+	background-image: linear-gradient(to right bottom, lightgreen, seagreen);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	color: #09710b;
+}
+
+#ludo-wic {
+	background-image: linear-gradient(to right bottom, magenta, #5d35b8, blue);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	color: whitesmoke;
+}
